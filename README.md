@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![253-Mathilde GitHub stats](https://github-stats-extended.vercel.app/api?username=253-Mathilde)](https://github.com/stats-organization/github-stats-extended)
+
+
 <!--
 **253-Mathilde/253-Mathilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
